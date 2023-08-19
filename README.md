@@ -5,3 +5,5 @@ A terminal user interface (TUI) library designed to be efficient, fast, and easy
 TODO:
 
 -Complete rewrite, current one is just rendering functions and not responsive when resizing the window
+-Mouse input(?)
+-Better README
